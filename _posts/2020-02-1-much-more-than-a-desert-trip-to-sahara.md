@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Much more than a desert: A trip into the Sahara"
-author: Vanessa
+author: vanessa
 categories: [ Travel ]
 image: assets/images/16.jpg
 ---

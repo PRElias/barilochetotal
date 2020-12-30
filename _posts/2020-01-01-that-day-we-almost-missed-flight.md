@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "That day when we almost missed our flight"
-author: Vanessa
+author: vanessa
 categories: [ Travel, Lifestyle ]
 image: assets/images/17.jpg
 ---
