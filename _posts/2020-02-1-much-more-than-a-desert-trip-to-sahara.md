@@ -12,7 +12,7 @@ Ou seja, para um casal você gastará: R$ 12.000,00.
 Se você comprar a passagem e hotelaria por sua conta - quanto antes melhor - sempre! - sairá uma média de R$ 2.300,00 a passagem aérea + hotelaria a escolher. Para duas pessoas uma cabana ou hosteria sairia em torno de R$ 3.000,00 a semana. Ou seja, 2.300 + 1.500 = R$ 3.800 OU R$ 7.600 para duas pessoas. Neste caso uma diferença ABSURDA para poder ser aproveitada para a comprados passeios que **NÃO SÃO, em absoluto, BARATINHOS**.
 
 <p style="background-color: yellow;">NÓS NÃO TRABALHAMOS COM HOTELARIA!</p> 
-Recomendamos buscar diretamente por:  <a href="www.booking.com">Booking</a> ou <a href="www.airbnb.com.br">Airbnb</a>  
+Recomendamos buscar diretamente por:  <a href="http://www.booking.com" target="_blank">Booking</a> ou <a href="http://www.airbnb.com.br"  target="_blank">Airbnb</a>  
 
 Ao efetuar sua busca, **CUIDADO ONDE ESCOLHER FICAR**, opte pelo centro ou no máximo até o km 8 (das Avenidas Bustillo ou Pioneros). 
 Quando falamos em Avenida, imaginamos uma avenida normal como a Av. Paulista em São Paulo... erro! 
