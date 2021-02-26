@@ -7,7 +7,7 @@ image: assets/images/16.jpg
 valor_pacote_tradicional: 6.000
 ---
 
-A conta é simples: um pacote nas operadoras tradicionais (CVC, CALCOS ETC) **custa aproximadamente, por pessoa, R$** <h3>{{ page.valor_pacote_tradicional }}</h3> (PARTE AÉREA + HOTEL, não computando em absoluto nenhum passeio) - todos oferecem de presente Circuito Chico e a ida ao Catedral, pois são os passeios mais baratos). 
+A conta é simples: um pacote nas operadoras tradicionais (CVC, CALCOS ETC) **custa aproximadamente, por pessoa, R$ {{ page.valor_pacote_tradicional }}** (PARTE AÉREA + HOTEL, não computando em absoluto nenhum passeio) - todos oferecem de presente Circuito Chico e a ida ao Catedral, pois são os passeios mais baratos). 
 Ou seja, para um casal você gastará: R$ 12.000,00.
 
 Se você comprar a passagem e hotelaria por sua conta - quanto antes melhor - sempre! - sairá uma média de R$ 2.300,00 a passagem aérea + hotelaria a escolher. Para duas pessoas uma cabana ou hosteria sairia em torno de R$ 3.000,00 a semana. Ou seja, 2.300 + 1.500 = R$ 3.800 OU R$ 7.600 para duas pessoas. Neste caso uma diferença ABSURDA para poder ser aproveitada para a comprados passeios que **NÃO SÃO, em absoluto, BARATINHOS**.
