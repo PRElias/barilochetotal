@@ -2,7 +2,7 @@
     "dir": "ltr",
     "lang": "pt-BR",
     "name": "Bariloche Total",
-    "scope": "/",
+    "scope": "/barilochetotal",
     "display": "fullscreen",
     "start_url": "https://prelias.github.io/barilochetotal/",
     "short_name": "BarilocheTotal",
