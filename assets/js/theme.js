@@ -193,13 +193,13 @@ if ('serviceWorker' in navigator) {
 	} else {
 	  //Register the ServiceWorker
 	  window.addEventListener('load', function () {
-		navigator.serviceWorker.register('/assets/pwa/pwabuilder-sw.js', {
+		navigator.serviceWorker.register('barilochetotal/assets/pwa/pwabuilder-sw.js', {
 		  scope: './'
 		}).then(function (reg) {
 		  console.log('Service worker has been registered for scope:' + reg.scope);
 		});
 	  });
-	  var worker = new Worker('/assets/pwa/pwabuilder-sw.js');
+	  var worker = new Worker('barilochetotal/assets/pwa/pwabuilder-sw.js');
   
 	  worker.addEventListener('message', function (e) {
 		console.log('Worker said: ', e.data);
