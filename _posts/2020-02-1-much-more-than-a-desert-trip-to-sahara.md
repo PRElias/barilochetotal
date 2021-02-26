@@ -1,15 +1,40 @@
 ---
 layout: post
-title:  "Much more than a desert: A trip into the Sahara"
+title:  "VIAJAR COM PACOTES TURISTICOS OU POR CONTA PROPRIA?"
 author: vanessa
-categories: [ Travel ]
+categories: [ Dicas ]
 image: assets/images/16.jpg
 ---
 
-The Sahara is a desert located on the African continent. It is the largest hot desert in the world, and the third largest desert overall after Antarctica and the Arctic. Its area of 9,200,000 square kilometres (3,600,000 sq mi) is comparable to the area of China or the United States.[3] The name 'Sahara' is derived from a dialectal Arabic word for "desert", ṣaḥra (صحرا /ˈsˤaħra/).
+A conta é simples: um pacote nas operadoras tradicionais (CVC, CALCOS ETC) **custa aproximadamente, por pessoa, R$ 6.000,00** (PARTE AÉREA + HOTEL, não computando em absoluto nenhum passeio) - todos oferecem de presente Circuito Chico e a ida ao Catedral, pois são os passeios mais baratos). 
+Ou seja, para um casal você gastará: R$ 12.000,00.
 
-The desert comprises much of North Africa, excluding the fertile region on the Mediterranean Sea coast, the Atlas Mountains of the Maghreb, and the Nile Valley in Egypt and Sudan. It stretches from the Red Sea in the east and the Mediterranean in the north to the Atlantic Ocean in the west, where the landscape gradually changes from desert to coastal plains. 
+Se você comprar a passagem e hotelaria por sua conta - quanto antes melhor - sempre! - sairá uma média de R$ 2.300,00 a passagem aérea + hotelaria a escolher. Para duas pessoas uma cabana ou hosteria sairia em torno de R$ 3.000,00 a semana. Ou seja, 2.300 + 1.500 = R$ 3.800 OU R$ 7.600 para duas pessoas. Neste caso uma diferença ABSURDA para poder ser aproveitada para a comprados passeios que **NÃO SÃO, em absoluto, BARATINHOS**.
 
-To the south, it is bounded by the Sahel, a belt of **semi-arid tropical savanna** around the Niger River valley and the Sudan Region of Sub-Saharan Africa. The Sahara can be divided into several regions including: the western Sahara, the central Ahaggar Mountains, the Tibesti Mountains, the Aïr Mountains, the Ténéré desert, and the Libyan Desert.
+<p style="background-color: yellow;">NÓS NÃO TRABALHAMOS COM HOTELARIA!</p> 
+Recomendamos buscar diretamente por:  <a href="www.booking.com">Booking</a> ou <a href="www.airbnb.com.br">Airbnb</a>  
 
-For several hundred thousand years, the Sahara has alternated between desert and savanna grassland in a 20,000 year cycle caused by the precession of the Earth's axis as it rotates around the Sun, which changes the location of the North African Monsoon. The area is next expected to become green in about 15,000 years (17,000 AD).
+Ao efetuar sua busca, **CUIDADO ONDE ESCOLHER FICAR**, opte pelo centro ou no máximo até o km 8 (das Avenidas Bustillo ou Pioneros). 
+Quando falamos em Avenida, imaginamos uma avenida normal como a Av. Paulista em São Paulo... erro! 
+
+Em Bariloche Avenidas são estradas menores, mas estradas! Cheias de curvas e MÃO ÚNICA! Ou seja, um hotel MEGA TOP com um preço MEGA INCRÍVEL no km 22 será a pior escolha da sua vida por aqui!
+Sem contar que os provedores dos passeios só pegam os passageiros até o km 8. 
+Caso você esteja além do km 8, prepare-se para ficar na dependência de taxis (remises) todas as manhãs para ir ao centro da cidade (de onde saem os passeios).
+Lago Gutierrez que parece ˝logo alí˝ é outra pegadinha. Não são 10 minutinhos como indicam algumas hospedagens. Você, em uma manhã congelada, ˝se˝ conseguir taxi levará em média 35 minutos. 
+Cerro Catedral é unicamente indicado para esquiadores profissionais e que não desejam sair do Centro de Ski. Pois a cidade fica a 50 minutos do local e o último ônibus sai da estação de Ski as 20:00 hs.
+
+<p style="background-color: yellow;">Pense bem a localização de sua hospedagem. Ela fará toda a diferença!!</p> 
+
+Lembrando que:
+Hosteria = Pousadinhas
+Hostel = Albergues (com quartos compartilhados ou individuais)
+Bungalows = Cabanas
+
+**Evite alugar CASAS**. Opte por apartamentos! (questão de segurança)
+
+<p style="background-color: yellow;">NÓS NÃO TRABALHAMOS COM PARTE AÉREA!</p>
+
+Você teria que buscar ou via internet ou confiar em um agente de viagens e pedir uma melhor combinação de vôos.
+A maioria das Companhias Aéreas descem em Buenos Aires (EZEIZA) e você terá que efetuar a troca de aeroporto por sua conta **(EVITE ESTE AEROPORTO SALVO QUE VC SAIA DE LA NO VOO INTERNO: EZE – BRC = EZEIZA PARA BARILOCHE)**.
+
+Algumas cias aéreas como AEROLINEAS ARGENTINAS E GOL têm vôos que pousam no **AEROPARQUE**. (estes são os melhores!!! Chegar via aeroparque e sair via aeroparque para Bariloche – nao tendo assim que TROCAR de aeroporto).
