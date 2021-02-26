@@ -4,7 +4,7 @@ title:  "VIAJAR COM PACOTES TURISTICOS OU POR CONTA PROPRIA?"
 author: vanessa
 categories: [ Dicas ]
 image: assets/images/16.jpg
-valor_pacote_tradicional: 6.000
+valor_pacote_tradicional: "6.000"
 ---
 
 A conta é simples: um pacote nas operadoras tradicionais (CVC, CALCOS ETC) **custa aproximadamente, por pessoa, R$ {{ page.valor_pacote_tradicional }}** (PARTE AÉREA + HOTEL, não computando em absoluto nenhum passeio) - todos oferecem de presente Circuito Chico e a ida ao Catedral, pois são os passeios mais baratos). 
