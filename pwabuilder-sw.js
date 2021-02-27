@@ -2,15 +2,11 @@
 
 //console.log('Hello from service-worker.js');
 
-//importScripts('https://storage.googleapis.com/workbox-cdn/releases/5.1.2/workbox-sw.js');
+importScripts('https://storage.googleapis.com/workbox-cdn/releases/5.1.2/workbox-sw.js');
 
 // self.addEventListener('message', function(e) {
 //   self.postMessage(e.data);
 // }, false);
-
-if( 'function' === typeof importScripts) {
-  importScripts('https://storage.googleapis.com/workbox-cdn/releases/5.1.2/workbox-sw.js');
-}
 
 if (workbox) {
     console.log(`Yay! Workbox is loaded 🎉`);
