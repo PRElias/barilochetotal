@@ -6,7 +6,7 @@ if ('serviceWorker' in navigator) {
 	  //Register the ServiceWorker
 	  window.addEventListener('load', function () {
 		navigator.serviceWorker.register('/barilochetotal/pwabuilder-sw.js', {
-		  scope: '/barilochetotal'
+		  scope: '/barilochetotal/'
 		}).then(function (reg) {
 		  console.log('Service worker has been registered for scope:' + reg.scope);
 		});
