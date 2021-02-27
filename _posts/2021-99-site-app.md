@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Seja bem vindo!"
+author: vanessa
+categories: [ Lifestyle ]
+tags: [ Sobre ]
+image: assets/images/capa.jpg
+rating: 4.5
+---
+
+Seja bem vindo ao novo site e aplictaivo do Bariloche Total! Se você está acessando pelo celular basta clicar em **Adicionar à tela inicial** e você poderá desfrutar de todas informações disponíveis como um aplicativo.
+
+Apresentamos todas as informações necessárias para que você tenha a melhor experiência possível e possa acessá-las de forma fácil e rápida.
+
+Usando o botão de lupa na caixa de pesquisa, você pode ir direto à informações como táxi, aeroporto, restaurantes e o que mais você desejar saber.
+
+Boa diversão e conte sempre conosco!
+
