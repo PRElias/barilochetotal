@@ -39,7 +39,7 @@ if('function' === typeof importScripts) {
       caches.open('pwa-offline').then(function(cache) {
         return cache.match(event.request).then(function (response) {
           return response || fetch(event.request).then(function(response) {
-            cache.put(event.request, response.clone());
+            cache.add(event.request, response.clone());
             return response;
           });
         });
