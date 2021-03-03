@@ -3,7 +3,7 @@ layout: post
 title:  "POSSO USAR MEU CARTÃO DE DÉBITO NORMALMENTE?"
 author: vanessa
 categories: [ Financeiro ]
-image: assets/images/008b.jpg
+image: assets/images/008.jpg
 description: "My review of Inception movie. Acting, plot and something else in this short description."
 ---
 
