@@ -4,14 +4,14 @@ title:  "QUEM É VANESSA OLIVATTI?"
 author: vanessa
 categories: [ Lifestyle ]
 tags: [ Sobre ]
-image: assets/images/2.jpg
+image: assets/images/DSC_1036.JPG
 rating: 4.5
 ---
 
 Por mais de duas décadas, a assessora e guia de turismo, Vanessa Olivatti, trabalha no ramo do turismo, tendo passagens expressivas por agências de renome internacional, se firmando como sinônimo de excelente atendimento e encantando os diversos brasileiros que usufruíram de seus serviços. Em 2008, após ter fixado residência definitiva em Bariloche, acreditando na satisfação de seus clientes, Vanessa resolveu dedicar-se a um sonho de abrir uma empresa de assessoria para pessoas que desejam passar suas férias em Bariloche, assim dando início a Bariloche Total. Vale ressaltar que ela trabalha em Bariloche desde 2004 e é uma apaixonada pelos esportes invernais.
 
-![image](../assets/images/vanessa01.jpg){: .align-center} 
-> Vanessa Olivatti
+<!-- ![image](../assets/images/vanessa01.jpg){: .align-center} 
+> Vanessa Olivatti -->
 
 A Bariloche Total é uma empresa de assessoramento turístico, que atua exclusivamente em Bariloche e tem como missão a satisfação plena do seu cliente, desde a escolha do produto até o momento de desfrutá-lo.
 
