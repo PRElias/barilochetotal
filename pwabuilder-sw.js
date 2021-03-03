@@ -2,7 +2,7 @@
 
 //console.log('Hello from service-worker.js');
 
-const CACHE_VERSION = 4;
+const CACHE_VERSION = 5;
 
 if('function' === typeof importScripts) {
   importScripts('https://storage.googleapis.com/workbox-cdn/releases/5.1.2/workbox-sw.js');
