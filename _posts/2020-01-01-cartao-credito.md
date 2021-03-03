@@ -3,7 +3,6 @@ layout: post
 title:  "ACEITAM CARTÕES DE CRÉDITO NAS LOJAS?"
 author: vanessa
 categories: [ Financeiro ]
-tags: [France]
 image: assets/images/008b.jpg
 ---
 
