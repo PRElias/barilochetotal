@@ -2,9 +2,9 @@
 layout: post
 title:  "ACEITAM CARTÕES DE CRÉDITO NAS LOJAS?"
 author: vanessa
-categories: [ Lifestyle ]
+categories: [ Financeiro ]
 tags: [France]
-image: assets/images/5.jpg
+image: assets/images/008.jpg
 ---
 
 A grande maioria EVITA os cartões. 

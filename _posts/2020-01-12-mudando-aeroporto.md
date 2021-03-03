@@ -2,8 +2,8 @@
 layout: post
 title:  "MUDANÇA DE AEROPORTO EM BUENOS AIRES"
 author: vanessa
-categories: [ Travel ]
-image: assets/images/15.jpg
+categories: [ Aeroporto ]
+image: assets/images/005.jpg
 ---
 Se você, como a maioria das pessoas, se sente acuado e com medo de chegar em um país de língua diferente da nossa, RELAXE! A mudança de aeroporto é super simples - é como sair de Guarulhos em São Paulo e ir para Congonhas (um fica mais distante e o outro mais no centro da cidade).
 

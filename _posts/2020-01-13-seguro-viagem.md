@@ -2,8 +2,8 @@
 layout: post
 title:  "SEGURO VIAGEM"
 author: vanessa
-categories: [ Travel ]
-image: assets/images/9.jpg
+categories: [ Financeiro ]
+image: assets/images/003.jpg
 ---
 
 Eu, particularmente, sempre me julguei imortal aos 40 anos e que NUNCA as coisas ruins aconteceriam (comigo ou com pessoas próximas a mim) e por esta razão nunca dei muita importância a este ítem em minhas viagens: **O SEGURO VIAGEM**. 

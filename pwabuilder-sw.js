@@ -29,7 +29,7 @@ if('function' === typeof importScripts) {
       fetch(indexPage).then(function(response) {
         return caches.open('pwa-offline').then(function(cache) {
           console.log('[PWA Builder] Cached files during install '+ response.url);
-          return cache.put(indexPage, response);
+          return cache.add(indexPage, response);
         });
     }));
   });

@@ -2,9 +2,8 @@
 layout: post
 title:  "INFORMAÇÕES ÚTEIS"
 author: vanessa
-categories: [ Lifestyle, Travel ]
-tags: [ France ]
-image: "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"
+categories: [ Utilidades ]
+image: assets/images/006.jpg
 ---
 
 Do Aeroporto até o Centro: 16km ou 20 minutos pela Ruta 40

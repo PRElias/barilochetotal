@@ -2,8 +2,8 @@
 layout: post
 title:  "VIAJAR COM PACOTES TURISTICOS OU POR CONTA PROPRIA?"
 author: vanessa
-categories: [ Dicas ]
-image: assets/images/16.jpg
+categories: [ Financeiro ]
+image: assets/images/001.jpg
 valor_pacote_tradicional: "6.000"
 ---
 
