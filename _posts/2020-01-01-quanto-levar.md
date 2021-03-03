@@ -2,8 +2,8 @@
 layout: post
 title:  "QUANTO DINHEIRO DEVO LEVAR EM MÉDIA?"
 author: vanessa
-categories: [ Travel, Lifestyle ]
-image: assets/images/17.jpg
+categories: [ Financeiro ]
+image: assets/images/007b.jpg
 ---
 Esta é uma questão que a todo momento surge. Defino como totalmente pessoal esta questão, pois cada família é um mundo diferente. O que eu posso é fazer abaixo uma simulação (baseada nos preços de 2019) de passeios imperdíveis para um período de uma semana, o que geralmente 80% das pessoas fazem por aqui e através do roteirinho você ter uma idéia. Programa básico, ok? (preço por pessoa) TOTALMENTE FLEXIVEL:
 
