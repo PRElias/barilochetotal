@@ -2,9 +2,11 @@
 
 //console.log('Hello from service-worker.js');
 
-const CACHE_VERSION = 1;
+const CACHE_VERSION = 2;
 
-importScripts('https://storage.googleapis.com/workbox-cdn/releases/5.1.2/workbox-sw.js');
+if('function' === typeof importScripts) {
+  importScripts('https://storage.googleapis.com/workbox-cdn/releases/5.1.2/workbox-sw.js');
+}
 
 // self.addEventListener('message', function(e) {
 //   self.postMessage(e.data);
